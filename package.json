@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "twit": "^2.2.11"
+    "snoowrap": "^1.23.0",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.8.0",
+    "twitter-v2": "^1.1.0"
   }
 }
